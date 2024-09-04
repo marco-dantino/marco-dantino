@@ -11,6 +11,7 @@
 Actualmente integro en una organización. Un proyecto enfocado en la formación y desarrollo de talento en diferentes tecnologías. Con una visión innovadora y un enfoque en la calidad, nos dedicamos a capacitar a futuros profesionales, desarrollar soluciones tecnológicas de alto impacto y gestionar proyectos de terceros. El objetivo del proyecto es convertirse en un referente en la industria, combinando educación, desarrollo y gestión para crear un entorno donde tanto el talento emergente como los proyectos tecnológicos puedan prosperar y alcanzar su máximo potencial. 
 
 ##### En combinación, soy estudiante en la universidad.
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="27"/> </a> 
@@ -26,4 +27,4 @@ Actualmente integro en una organización. Un proyecto enfocado en la formación 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="27"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="27"/> </a> 
   </p>
----
+
