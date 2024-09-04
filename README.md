@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-Actualmente integro en una organización que se dedica a la formación y desarrollo de habilidades en diferentes tecnologías. Estoy colaborando en un proyecto que actualmente se esta usando en la facultad (UTN) de sistema de fidelización para la gestión interna de alumnos. Al mismo tiempo contribuyo en una página web enfocada a la realización de ejercicios de JavaScript.
-https://github.com/colidevs
+Actualmente integro en una organización https://github.com/colidevs. Estoy colaborando en un proyecto que actualmente se esta usando en la facultad (UTN) de sistema de fidelización para la gestión interna de alumnos. Al mismo tiempo contribuyo en una página web enfocada a la realización de ejercicios de JavaScript.
+
 
 ##### En combinación, soy estudiante en la universidad.
 ---
