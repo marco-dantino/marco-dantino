@@ -8,7 +8,12 @@
 
 ### Connect with me:
 
-Actualmente integro en una organización https://github.com/colidevs. Estoy colaborando en un proyecto que actualmente se esta usando en la facultad (UTN) de sistema de fidelización para la gestión interna de alumnos. Al mismo tiempo contribuyo en una página web enfocada a la realización de ejercicios de JavaScript.
+Actualmente soy parte de [colidevs](https://github.com/colidevs).<br>
+Dirigí equipos y desarrollos web.
+
+Estoy colaborando en un proyecto que actualmente se esta usando en la facultad (UTN). [coliwheel](https://github.com/colidevs/coliwheel)<br>
+Al mismo tiempo contribuyo en un sistema de fidelización para la gestión interna de alumnos. [colirank](https://github.com/colidevs/colirank)<br>
+Lideré el desarrollo de una página web enfocada a la realización de ejercicios de JavaScript. [colijs](https://github.com/colidevs/coli-js)
 
 
 ##### En combinación, soy estudiante en la universidad.
